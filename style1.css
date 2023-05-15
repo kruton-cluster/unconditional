@@ -1,0 +1,58 @@
+/* Body and Typography */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #333333;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  color: #0066cc;
+}
+
+/* Header */
+header {
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #333333;
+}
+
+/* Main Content */
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+/* Footer */
+footer {
+  background-color: #f7f7f7;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+  color: #666666;
+}
+
+/* Additional Customizations */
+/* Add your own custom CSS rules here to further enhance the design */
